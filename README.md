@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a project which is EnrollSys – Development of an Automated Enrollment and Student Profile Management System of Computer Studies Department**
  
- 🌱 I’m currently learning **Supabase, PHP Laravel**
+ 🌱 Learning & Using **Supabase, PHP Laravel, JavaScript, MySQL** to build modern, efficient web applications.
 
 💬 Ask me about **HTML, CSS, PHP... or anything [here](https://github.com/Laxus-Dreyarr/Laxus-Dreyarr/issues)**
 
