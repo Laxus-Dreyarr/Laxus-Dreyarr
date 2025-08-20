@@ -16,7 +16,7 @@
 
 💬 Ask me about **HTML, CSS, PHP... or anything [here](https://github.com/Laxus-Dreyarr/Laxus-Dreyarr/issues)**
 
-⚡ Fun fact **I’m a fan of watching anime**
+⚡ Fun fact **I love music and anime**
 
  <div align="center"> 
   <a href="mailto:carljamesduallo661@gmail.com">
