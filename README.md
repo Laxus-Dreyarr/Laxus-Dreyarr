@@ -43,8 +43,21 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Laxus-Dreyarr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/carljamesduallo661@gmail.com) 
+  ---
+
+### ❤️ Support My Work
+
+If you find my projects useful, consider buying me a coffee! Your donation helps me learn and build more cool stuff.
+
+[![Donate via GCash](https://img.shields.io/badge/GCash-Donate_₱-0065A9?style=for-the-badge&logo=gcash&logoColor=white)](https://github.com/Laxus-Dreyarr/Laxus-Dreyarr/blob/main/GCash-MyQR-22082025161216.PNG.jpg)
+ <!-- You can hide some numbers for privacy -->
+
+<!-- This will display your QR code -->
+<img src="https://github.com/Laxus-Dreyarr/Laxus-Dreyarr/blob/main/GCash-MyQR-22082025161216.PNG.jpg" alt="GCash QR Code" width="200"/>
+
+*Thank you for your support! 🙏*
+
+---
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
