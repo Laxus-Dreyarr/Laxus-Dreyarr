@@ -14,7 +14,7 @@
  
  🌱 Learning & Using **Supabase, PHP Laravel, JavaScript, MySQL** to build modern, efficient web applications.
 
-💬 Ask me about **HTML, CSS, PHP... or anything [here](https://github.com/Laxus-Dreyarr/Laxus-Dreyarr/issues)**
+💬 Ask me about **HTML, CSS, PHP... or anything [here](https://www.facebook.com/CarlLucasMathew)**
 
 ⚡ Fun fact **I love music and anime**
 
