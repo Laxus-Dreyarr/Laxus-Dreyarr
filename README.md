@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a project which is EnrollSys – Development of an Automated Enrollment and Student Profile Management System of Computer Studies Department**
+ 🔭 I’m currently working on **a project called EnrollSys, which is an Automated Enrollment and Student Profile Management System for the Computer Studies Department**
  
  🌱 Learning & Using **Supabase, PHP Laravel, JavaScript, MySQL** to build modern, efficient web applications.
 
